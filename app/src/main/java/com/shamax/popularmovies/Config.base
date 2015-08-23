@@ -1,0 +1,5 @@
+package com.shamax.popularmovies;
+
+public class Config {
+    public static final String TMDB_API_KEY = "";
+}
